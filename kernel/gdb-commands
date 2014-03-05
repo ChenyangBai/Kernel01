@@ -1,0 +1,10 @@
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/main/gdt.gdb
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/mm/pagetable.gdb
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/mm/memcheck.py
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/mm/page.py
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/mm/slab.py
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/proc/kthread.gdb
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/proc/proc.py
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/util/debug.py
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/util/list.py
+/home/sbk/Desktop/weenix-assignment-2.0.0/weenix/kernel/vm/vmmap.gdb
